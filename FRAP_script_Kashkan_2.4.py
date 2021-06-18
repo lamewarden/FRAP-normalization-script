@@ -1,3 +1,5 @@
+__author__ = 'Lamewarden'
+
 #!/usr/bin/python3
 
 import pandas as pd
