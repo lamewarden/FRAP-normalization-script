@@ -1,4 +1,4 @@
-# FRAP-normalisation-script
+# FRAP-normalization-script
 Short description.
 
 
