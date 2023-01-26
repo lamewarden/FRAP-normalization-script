@@ -1,5 +1,7 @@
 # FRAP-normalization-script
-Short description.
+Original paper https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17792.
+
+## Short description.
 
 
 The program is written to facilitate repetitive calculations of fluorescence recovery after photobleaching (FRAP).
